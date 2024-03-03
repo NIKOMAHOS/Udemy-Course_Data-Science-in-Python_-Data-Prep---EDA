@@ -19,7 +19,7 @@ The course is structured in ten detailed sections, each targeting a specific asp
 
 ## Key Learning Outcomes
 
-Through this well pur course, I was highlighted the importance of:
+Through this really well-put course, I was highlighted the importance of:
 
 - Developing and/or engaging **domain expertise** to make informed data cleaning decisions.
 - Ensuring **data integrity and consistency** to prepare for robust modeling.
