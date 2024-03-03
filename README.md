@@ -19,7 +19,7 @@ The course is structured in ten detailed sections, each targeting a specific asp
 
 ## Key Learning Outcomes
 
-Through this really well-put course, I was highlighted the importance of:
+Through this really well-put course, I focused on:
 
 - Developing and/or engaging **domain expertise** to make informed data cleaning decisions.
 - Ensuring **data integrity and consistency** to prepare for robust modeling.
@@ -27,4 +27,4 @@ Through this really well-put course, I was highlighted the importance of:
 
 ## Resources & Further Learning
 
-The course materials and additional resources can be found [here](https://www.udemy.com/share/109kdY3@dfJZb4qh3bMxp0DZvLfYrxCAF-WquRSKsvJpCDp7e43G1ZptB2nHAId6Vn1WmEcZsw==/).
+More information about the course materials and additional resources can be found [here](https://www.udemy.com/share/109kdY3@dfJZb4qh3bMxp0DZvLfYrxCAF-WquRSKsvJpCDp7e43G1ZptB2nHAId6Vn1WmEcZsw==/).
